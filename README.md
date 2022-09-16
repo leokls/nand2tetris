@@ -28,4 +28,4 @@ Hardware Platform Emulator: Memory (RAM address space), CPU, Computer
 
 
 06 Assembler
-A Python program that programs written in the symbolic assembly language into binary code.
+A Python program that translates programs written in the symbolic assembly language into binary code.
